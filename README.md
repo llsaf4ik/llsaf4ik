@@ -1,7 +1,7 @@
 ## Привет, меня зовут Ильсаф
 ### Я начинающий ML-инженер
 
-### Стек технологий:
+### Навыки:
 - scikit-learn, catboost, xgboost, pytorch, vowpal wabbit
 - numpy, pandas, matplotlib, seaborn, statsmodels, scipy
 - SQL
