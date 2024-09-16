@@ -6,6 +6,6 @@
 - numpy, pandas, matplotlib, seaborn, statsmodels, scipy
 - SQL
 
-### Курсы, которые прошел
+### Курсы, которые прошел:
 - Открытый курс от ODS по машинному обучению
 - [Курсы](https://stepik.org/users/439834358/profile) на stepik
