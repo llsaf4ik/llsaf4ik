@@ -1,4 +1,11 @@
-<div id="header" align="center">
-  <h2>Привет, всем! Меня зовут Ильсаф</h2>
-  <h2>Я начинающий ML-инженер</h2>
-</div>
+## Привет, меня зовут Ильсаф
+### Я начинающий ML-инженер
+
+### Стек технологий:
+- scikit-learn, catboost, xgboost, pytorch, vowpal wabbit
+- numpy, pandas, matplotlib, seaborn, statsmodels, scipy
+- SQL
+
+### Курсы, которые прошел
+- Открытый курс от ODS по машинному обучению
+- [Курсы](https://stepik.org/users/439834358/profile) на stepik
