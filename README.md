@@ -7,5 +7,5 @@
 - SQL
 
 ### Курсы, которые прошел:
-- Открытый курс от ODS по машинному обучению
+- Открытый [курс](https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl) от ODS по машинному обучению
 - [Курсы](https://stepik.org/users/439834358/profile) на stepik
