@@ -20,5 +20,4 @@
 
 - **Tools:** Git, Linux, Jupyter
 
----
-> **[My Machine Learning & Deep Learning Notes](https://github.com/llsaf4ik/ml_notes)**
+**[My Machine Learning & Deep Learning Notes](https://github.com/llsaf4ik/ml_notes)**
