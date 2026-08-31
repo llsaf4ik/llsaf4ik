@@ -5,12 +5,12 @@
 *I train myself to train machines*.
 
 ### Skills:
-- **NLP & AI:** PyTorch, HuggingFace Transformers, LangChain
+- **NLP & AI:** PyTorch, HuggingFace Transformers, LangChain, LangFuse, Unsloth, TRL
 - **Computer Vision:** YOLO, OpenCV, Albumentations
 - **Classic ML:** CatBoost, XGBoost, Scikit-Learn, Vowpal Wabbit
 - **Data Engineering & Analysis:** SQL, Pandas, NumPy, NetworkX, statsmodels
 - **Inference & Engineering:** ONNX Runtime, FAISS, Streamlit
 - **Data Visualization:** Matplotlib, Seaborn
-- **Tools:** Git, Linux, Jupyter
+- **Tools:** Git, Docker, Linux, Jupyter, Hydra, vLLM
 
 **[My Machine Learning & Deep Learning Notes](https://github.com/llsaf4ik/ml_notes)**
