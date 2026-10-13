@@ -5,8 +5,9 @@
 *I train myself to train machines*.
 
 ### Skills:
-- PyTorch, HuggingFace Transformers, TRL, PEFT / LoRA, Unsloth, Langfuse, LangChain, FAISS, ChromaDB, RAG
-- CatBoost, XGBoost, Scikit-Learn, Pandas, NumPy, Statsmodels, Optuna, NetworkX
+- PyTorch, HuggingFace Transformers, TRL, PEFT / LoRA, Unsloth
+- Langfuse, LangChain, FAISS, ChromaDB, RAG
+- CatBoost, XGBoost, Scikit-Learn, Pandas, NumPy, Optuna, NetworkX
 - Docker, Git, Linux, Hydra, ONNX, Streamlit, Jupyter, ClearML, vLLM
 - YOLO, OpenCV, Albumentations, Matplotlib, Seaborn
 - Python, SQL
